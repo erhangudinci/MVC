@@ -9,6 +9,10 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MvcLab3", "MvcLab3\MvcLab3.
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "MvcLab3Movie", "MvcLab3Movie\MvcLab3Movie.xproj", "{8E13F9E0-0579-4F91-A49A-1732BD824B05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLab4_21", "MvcLab4_21\MvcLab4_21.csproj", "{7B94502F-DA9F-4B39-B6A8-58BEEC88F695}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLab4Upp_2", "MvcLab4Upp_2\MvcLab4Upp_2.csproj", "{05CB06F8-871D-48C8-ADEF-BB0B67FBF9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{8E13F9E0-0579-4F91-A49A-1732BD824B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E13F9E0-0579-4F91-A49A-1732BD824B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E13F9E0-0579-4F91-A49A-1732BD824B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B94502F-DA9F-4B39-B6A8-58BEEC88F695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B94502F-DA9F-4B39-B6A8-58BEEC88F695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B94502F-DA9F-4B39-B6A8-58BEEC88F695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B94502F-DA9F-4B39-B6A8-58BEEC88F695}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CB06F8-871D-48C8-ADEF-BB0B67FBF9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CB06F8-871D-48C8-ADEF-BB0B67FBF9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CB06F8-871D-48C8-ADEF-BB0B67FBF9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CB06F8-871D-48C8-ADEF-BB0B67FBF9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

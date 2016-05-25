@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet5-MvcLab3Movie-ee24b20e-e3ce-469a-aa44-4e20c948eb5e",
   "version": "1.0.0-*",
   "compilationOptions": {
@@ -26,6 +26,7 @@
     "Microsoft.Extensions.Logging": "1.0.0-rc1-final",
     "Microsoft.Extensions.Logging.Console": "1.0.0-rc1-final",
     "Microsoft.Extensions.Logging.Debug": "1.0.0-rc1-final",
+    "Microsoft.jQuery.Unobtrusive.Ajax": "3.2.3",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0-rc1-final"
   },
 
